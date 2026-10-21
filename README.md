@@ -1,0 +1,1 @@
+# generador-qr-grupo-2
